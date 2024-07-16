@@ -17,6 +17,11 @@ Upon selecting any of the two buttons, we can go to the next activity (i.e, the 
 
 **Produce Page**
 
-![image](https://github.com/user-attachments/assets/91fb3a78-591c-4634-8b06-1e79ff1a4b30)
+![image](https://github.com/user-attachments/assets/d60492c4-6956-40ca-8177-038806029ba7)
 
+When selecting checkout, it goes to the next activity for different modes of payment
+
+![image](https://github.com/user-attachments/assets/b48bdb76-e555-4e99-b051-682045e190bc)
+
+<img width="341" alt="Screenshot 2024-07-15 at 11 09 23 PM" src="https://github.com/user-attachments/assets/06f12fcb-7544-486a-bf2a-6f8469078306">
 
