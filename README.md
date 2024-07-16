@@ -25,3 +25,6 @@ When selecting checkout, it goes to the next activity for different modes of pay
 
 <img width="341" alt="Screenshot 2024-07-15 at 11 09 23 PM" src="https://github.com/user-attachments/assets/06f12fcb-7544-486a-bf2a-6f8469078306">
 
+![image](https://github.com/user-attachments/assets/20a58020-65e3-4f68-a142-7cae05e710dc)
+
+
